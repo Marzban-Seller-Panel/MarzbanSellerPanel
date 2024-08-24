@@ -8,6 +8,7 @@
   "SELLER_ADMIN_USERNAME":"Admin",
   "SELLER_ADMIN_PASSWORD":"admin",
   "IGNORE_TRAFFIC_TO_REMOVE":"0.5",
+  "RENEW_FORCE_TO_PAID":"Yes",
   "PAGE_TITLE": "'Your past does not equal your future unless you let it' - Anthony Robbins",
   "CHANNEL_NAME": "CHANNEL_NAME",
   "SERIALKEY":""
