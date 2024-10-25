@@ -1,6 +1,6 @@
 {
   "MARZBAN_URL" : "https://noproxy.domain.com:2053",
-  "SUBSCRIPTION_URL":"https://sub.domain.com:2053",
+  "SUBSCRIPTION_URL":" ",
   "NOSUDO_MARZBAN_USERNAME" : "user",
   "NOSUDO_MARZBAN_PASSWORD" : "pass",
   "MARZBAN_FLOW":"xtls-rprx-vision",
@@ -9,6 +9,7 @@
   "SELLER_ADMIN_PASSWORD":"admin",
   "IGNORE_TRAFFIC_TO_REMOVE":"0.5",
   "RENEW_FORCE_TO_PAID":"Yes",
+  "RENEW_FORCE_TO_LIMITED_AND_EXPIRED":"Yes",
   "PAGE_TITLE": "'Your past does not equal your future unless you let it' - Anthony Robbins",
   "CHANNEL_NAME": "CHANNEL_NAME",
   "SERIALKEY":""
