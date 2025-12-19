@@ -1,16 +1,19 @@
 {
-  "MARZBAN_URL" : "https://noproxy.domain.com:2053",
+  "MARZBAN_URL" : "https://noproxy.domain.com:8000",
   "SUBSCRIPTION_URL":" ",
-  "NOSUDO_MARZBAN_USERNAME" : "user",
-  "NOSUDO_MARZBAN_PASSWORD" : "pass",
+  "SUDO_MARZBAN_USERNAME" : "user",
+  "SUDO_MARZBAN_PASSWORD" : "pass",
   "MARZBAN_FLOW":"xtls-rprx-vision",
-  "BACKEND_URL": "https://noproxy.domain.com:8000",
-  "SELLER_ADMIN_USERNAME":"Admin",
-  "SELLER_ADMIN_PASSWORD":"admin",
+  "BACKEND_URL": "https://noproxy.domain.com/back/",
+  "SELLER_ADMIN_USERNAME":"user",
+  "SELLER_ADMIN_PASSWORD":"pass",
   "IGNORE_TRAFFIC_TO_REMOVE":"0.5",
   "RENEW_FORCE_TO_PAID":"Yes",
   "RENEW_FORCE_TO_LIMITED_AND_EXPIRED":"Yes",
+  "GET_ALL_USERS_FOR_AGENT":"No",
+  "DELETE_PAIDANDREMOVED_USERS":"Yes",
   "PAGE_TITLE": "'Your past does not equal your future unless you let it' - Anthony Robbins",
   "CHANNEL_NAME": "CHANNEL_NAME",
   "SERIALKEY":""
 }
+
