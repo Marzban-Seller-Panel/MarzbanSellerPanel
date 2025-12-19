@@ -1,6 +1,6 @@
 services:
   frontend:
-    image: marzbansellerpanel/msp-frontend:dev
+    image: marzbansellerpanel/msp-frontend:latest
     restart: always
     environment:
       NEXT_SERVER_ACTIONS_ENCRYPTION_KEY: ${NEXT_SERVER_ACTIONS_ENCRYPTION_KEY}
@@ -14,7 +14,7 @@ services:
       - no-new-privileges:true
 
   backend:
-    image: marzbansellerpanel/msp-backend:dev
+    image: marzbansellerpanel/msp-backend:latest
     restart: always
     volumes:
       - ./config.json:/backend/data/config.json:ro
